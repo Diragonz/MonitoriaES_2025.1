@@ -29,6 +29,7 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 Exemplo:
 
 0. Diego Rafael Gomes de França (drgf)
+1. Lucas Rodrigues da Silva Junior (lrsj)
 
 -------------------------------------------------------------------------------------------------------------------
 
