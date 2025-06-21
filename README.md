@@ -22,7 +22,7 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 | **Front-End**      | 07/06/2025 | José Basílio, Dayane Lima e Rafaela Leão                                           |
 | **Testes**         | 14/06/2025 | Breno Miguel, Douglas Araújo e Maria Clara Barretto                                |
 | **Back-End**       | 05/07/2025 | Lucas Luis, Matheus Olegario                                                       |
-| **Deploy**          | 12/07/2025 | Ayrton Farias Guimaraes e Rodrigo Barbosa                                          |
+| **Deloy**          | 12/07/2025 | Ayrton Farias Guimaraes e Rodrigo Barbosa                                          |
 | **DevOps (CI/CD)** | 24/07/2025 | José Ronaldo, Lucas Florencio e Luiz Henrique                                      |
 
 ## 👨🏽‍💻👩🏻‍💻 Lista de Estudantes (Insira seu nome abaixo e as iniciais do seu e-mail)
